@@ -1,0 +1,12 @@
+.clear-button-container {
+    height: 4em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    background-color: gray;
+    flex: 1;
+    outline: 1px solid black;
+    cursor: pointer;
+}
