@@ -5,7 +5,7 @@ Calculadora simples usando react.
 </p>
 
 ## Decription
-Usando react desenvolvi uma calculadora simples usando a biblioteca [MathJS](https://mathjs.org/) para fazer operações simples.
+Usando react desenvolvi uma calculadora usando a biblioteca [MathJS](https://mathjs.org/) para fazer operações simples.
 
 ## Api's and Library
 + [MathJS](https://mathjs.org/)
