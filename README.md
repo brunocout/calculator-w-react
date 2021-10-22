@@ -1,5 +1,5 @@
 # Calculator
-Calculadora simples usando react.
+
 <p>
   <img width="700" src="src/assets/toReadme/calculator.gif">
 </p>
